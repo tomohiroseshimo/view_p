@@ -1,0 +1,22 @@
+header {
+
+}
+.headermian {
+  background-color: blue;
+  height: 100px;
+}
+.logo{
+  float: left;
+}
+.login{
+  float: right;
+}
+form {
+  display: block;
+}
+table{
+  display: table;
+}
+tbody{
+  display: table-row-group;
+}
