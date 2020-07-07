@@ -20,3 +20,32 @@ table{
 tbody{
   display: table-row-group;
 }
+
+.mainarea{
+  width: 980px;
+  height: 640px;
+  background: linear-gradient(white, #D3D8E8);
+}
+.mainbox{
+  display: flex;
+}
+.leftbox{
+  width: 565px;
+  margin-right: 15px;
+}
+.leftbox_main{
+  color: #0e385f;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 29px;
+  margin-top: 40px;
+  width: 450px;
+  word-spacing: -1px;
+}
+.rightbox{
+  max-width: 400px;
+}
+
+footer{
+  min-height: 136px;
+}
