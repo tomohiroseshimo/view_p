@@ -21,6 +21,7 @@ tbody{
   display: table-row-group;
 }
 
+
 .mainarea{
   width: 980px;
   height: 640px;
@@ -45,6 +46,7 @@ tbody{
 .rightbox{
   max-width: 400px;
 }
+
 
 footer{
   min-height: 136px;
