@@ -23,8 +23,8 @@ tbody{
 
 
 .mainarea{
-  width: 980px;
-  height: 640px;
+  /* width: 980px; */
+  height: 620px;
   background: linear-gradient(white, #D3D8E8);
 }
 .mainbox{
@@ -50,4 +50,5 @@ tbody{
 
 footer{
   min-height: 136px;
+  background-color: white;
 }
