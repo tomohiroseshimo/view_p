@@ -11,7 +11,7 @@ header {
 .login{
   float: right;
 }
-form {
+.loginform {
   display: block;
 }
 table{
@@ -23,14 +23,17 @@ tbody{
 
 
 .mainarea{
-  /* width: 980px; */
+  
   height: 620px;
   background: linear-gradient(white, #D3D8E8);
+  
 }
 .mainbox{
-  display: flex;
+  width: 980px;
+  margin: 0 auto;
 }
 .leftbox{
+  display: inline-block;
   width: 565px;
   margin-right: 15px;
 }
@@ -44,7 +47,9 @@ tbody{
   word-spacing: -1px;
 }
 .rightbox{
+  display: inline-block;
   max-width: 400px;
+  margin: 0 auto;
 }
 
 
