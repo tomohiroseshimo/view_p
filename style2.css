@@ -21,12 +21,9 @@ tbody{
   display: table-row-group;
 }
 
-
 .mainarea{
-  
   height: 620px;
   background: linear-gradient(white, #D3D8E8);
-  
 }
 .mainbox{
   width: 980px;
@@ -51,7 +48,6 @@ tbody{
   max-width: 400px;
   margin: 0 auto;
 }
-
 
 footer{
   min-height: 136px;
